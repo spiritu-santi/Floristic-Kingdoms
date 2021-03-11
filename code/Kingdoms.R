@@ -6,7 +6,7 @@ library(CoordinateCleaner)
 library(ape)
 
 ######################################################################################################
-#####         ALL THE FOLLOWING IS NOT AUTOMATED (last update: JUNE 30, 2019)                    #####
+#####         ALL THE FOLLOWING IS NOT AUTOMATED (last update: NOVEMBER 10, 2020)                #####
 ##### The following script does all the necessary processing for the geographic data as obtained #####
 ##### from GBIF. There is a pre-processing step in bash to reduce file size, but row ID can be   #####
 ##### traced back to the original data as downloaded from GBIF with extra information.           #####
